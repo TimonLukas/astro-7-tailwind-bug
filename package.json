@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.1",
-    "astro": "https://pkg.pr.new/astro@13b914b",
+    "astro": "^7.0.2",
     "tailwindcss": "^4.3.1"
   }
 }
